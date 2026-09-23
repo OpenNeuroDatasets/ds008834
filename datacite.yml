@@ -69,6 +69,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 9
+      - name: Yujie Yang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0009-0001-6603-3943
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 10
     creators:
       - name: Boda Xiao
         nameType: Personal
@@ -89,6 +99,9 @@ data:
         nameType: Personal
       - name: Jing Chen
         nameType: Personal
+      - name: Yujie Yang
+        nameType: Personal
+        nameIdentifiers: *ref_1
     descriptions:
       - description: N/A
         descriptionType: Abstract
