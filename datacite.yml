@@ -51,34 +51,27 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 6
-      - name: Aoke Zhang
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 7
       - name: Xihong Wu
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 8
+        order: 7
       - name: Heping Cheng
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 9
+        order: 8
       - name: Jing Chen
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 10
+        order: 9
     creators:
       - name: Boda Xiao
         nameType: Personal
@@ -93,8 +86,6 @@ data:
       - name: Zifeng Zhang
         nameType: Personal
       - name: Jinghua Liang
-        nameType: Personal
-      - name: Aoke Zhang
         nameType: Personal
       - name: Xihong Wu
         nameType: Personal
