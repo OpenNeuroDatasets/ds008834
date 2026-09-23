@@ -1,0 +1,81 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Boda Xiao
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Songyi Li
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Zifeng Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Jinghua Liang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Aoke Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Xihong Wu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Heping Cheng
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Jing Chen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+    creators:
+      - name: Boda Xiao
+        nameType: Personal
+      - name: Songyi Li
+        nameType: Personal
+      - name: Zifeng Zhang
+        nameType: Personal
+      - name: Jinghua Liang
+        nameType: Personal
+      - name: Aoke Zhang
+        nameType: Personal
+      - name: Xihong Wu
+        nameType: Personal
+      - name: Heping Cheng
+        nameType: Personal
+      - name: Jing Chen
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
