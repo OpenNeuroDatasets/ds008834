@@ -20,7 +20,7 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 2
-      - name: Yujie Yang
+      - name: Yujie Yan
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -88,7 +88,7 @@ data:
       - name: Xiran Xu
         nameType: Personal
         nameIdentifiers: *ref_0
-      - name: Yujie Yang
+      - name: Yujie Yan
         nameType: Personal
         nameIdentifiers: *ref_1
       - name: Songyi Li
