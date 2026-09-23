@@ -44,34 +44,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
-      - name: Jinghua Liang
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 6
-      - name: Xihong Wu
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 7
-      - name: Heping Cheng
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 8
-      - name: Jing Chen
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 9
       - name: Linze Zheng
         givenName: ''
         familyName: ''
@@ -80,6 +52,34 @@ data:
           - nameIdentifier: https://orcid.org/0009-0004-9509-9505
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 6
+      - name: Jinghua Liang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Xihong Wu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Heping Cheng
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Jing Chen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
         contributorType: Researcher
         order: 10
     creators:
@@ -95,6 +95,9 @@ data:
         nameType: Personal
       - name: Zifeng Zhang
         nameType: Personal
+      - name: Linze Zheng
+        nameType: Personal
+        nameIdentifiers: *ref_2
       - name: Jinghua Liang
         nameType: Personal
       - name: Xihong Wu
@@ -103,9 +106,6 @@ data:
         nameType: Personal
       - name: Jing Chen
         nameType: Personal
-      - name: Linze Zheng
-        nameType: Personal
-        nameIdentifiers: *ref_2
     descriptions:
       - description: N/A
         descriptionType: Abstract
