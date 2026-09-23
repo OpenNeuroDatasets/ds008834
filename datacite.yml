@@ -59,6 +59,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 8
+      - name: Xiran Xu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0002-8293-4696
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 9
     creators:
       - name: Boda Xiao
         nameType: Personal
@@ -76,6 +86,9 @@ data:
         nameType: Personal
       - name: Jing Chen
         nameType: Personal
+      - name: Xiran Xu
+        nameType: Personal
+        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
