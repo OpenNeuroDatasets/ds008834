@@ -12,5 +12,7 @@
 
 2026-09-16: In-place directory reorganization, no data copying or numerical changes. Active index paths and processing output paths updated. Historical validation archived. Publication audit is separate.
 
+1.0.1 2026-09-23
+  - Updated the author list.
 1.0.0 2026-09-18
   - Initial release of PKUEEG, including EEG recordings from 25 participants across three recording sessions, stimulus audio and transcripts, metadata, and accompanying derivatives.
