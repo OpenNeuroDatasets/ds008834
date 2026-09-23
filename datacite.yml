@@ -10,6 +10,48 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
+      - name: Songyi Li
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Zifeng Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Jinghua Liang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Xihong Wu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Heping Cheng
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Jing Chen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
       - name: Xiran Xu
         givenName: ''
         familyName: ''
@@ -19,63 +61,15 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 2
-      - name: Yujie Yan
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_1
-          - nameIdentifier: https://orcid.org/0009-0001-6603-3943
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 3
-      - name: Songyi Li
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 4
-      - name: Zifeng Zhang
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
-      - name: Linze Zheng
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_2
-          - nameIdentifier: https://orcid.org/0009-0004-9509-9505
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 6
-      - name: Jinghua Liang
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 7
-      - name: Xihong Wu
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
         order: 8
-      - name: Heping Cheng
+      - name: Yujie Yan
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 9
-      - name: Jing Chen
+      - name: Linze Zheng
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -85,19 +79,10 @@ data:
     creators:
       - name: Boda Xiao
         nameType: Personal
-      - name: Xiran Xu
-        nameType: Personal
-        nameIdentifiers: *ref_0
-      - name: Yujie Yan
-        nameType: Personal
-        nameIdentifiers: *ref_1
       - name: Songyi Li
         nameType: Personal
       - name: Zifeng Zhang
         nameType: Personal
-      - name: Linze Zheng
-        nameType: Personal
-        nameIdentifiers: *ref_2
       - name: Jinghua Liang
         nameType: Personal
       - name: Xihong Wu
@@ -105,6 +90,13 @@ data:
       - name: Heping Cheng
         nameType: Personal
       - name: Jing Chen
+        nameType: Personal
+      - name: Xiran Xu
+        nameType: Personal
+        nameIdentifiers: *ref_0
+      - name: Yujie Yan
+        nameType: Personal
+      - name: Linze Zheng
         nameType: Personal
     descriptions:
       - description: N/A
