@@ -9,7 +9,7 @@
         "Yujie Yan",
         "Songyi Li",
         "Zifeng Zhang",
-	"Linze Zheng",
+        "Linze Zheng",
         "Jinghua Liang",
         "Xihong Wu",
         "Heping Cheng",
@@ -21,5 +21,5 @@
     "ReferencesAndLinks": [
         "https://www.gstudios.com.cn/"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008834.v1.0.2"
+    "DatasetDOI": "doi:10.18112/openneuro.ds008834.v1.0.3"
 }
