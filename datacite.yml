@@ -20,55 +20,6 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 2
-      - name: Songyi Li
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 3
-      - name: Zifeng Zhang
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 4
-      - name: Jinghua Liang
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 5
-      - name: Aoke Zhang
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 6
-      - name: Xihong Wu
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 7
-      - name: Heping Cheng
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 8
-      - name: Jing Chen
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 9
       - name: Yujie Yang
         givenName: ''
         familyName: ''
@@ -78,6 +29,55 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
+        order: 3
+      - name: Songyi Li
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+      - name: Zifeng Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 5
+      - name: Jinghua Liang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 6
+      - name: Aoke Zhang
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 7
+      - name: Xihong Wu
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 8
+      - name: Heping Cheng
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 9
+      - name: Jing Chen
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
         order: 10
     creators:
       - name: Boda Xiao
@@ -85,6 +85,9 @@ data:
       - name: Xiran Xu
         nameType: Personal
         nameIdentifiers: *ref_0
+      - name: Yujie Yang
+        nameType: Personal
+        nameIdentifiers: *ref_1
       - name: Songyi Li
         nameType: Personal
       - name: Zifeng Zhang
@@ -99,9 +102,6 @@ data:
         nameType: Personal
       - name: Jing Chen
         nameType: Personal
-      - name: Yujie Yang
-        nameType: Personal
-        nameIdentifiers: *ref_1
     descriptions:
       - description: N/A
         descriptionType: Abstract
