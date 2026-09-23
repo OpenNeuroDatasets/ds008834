@@ -1,0 +1,39 @@
+{
+  "story_id": {
+    "Description": "Story identifier."
+  },
+  "session_id": {
+    "Description": "Session in which the story was presented."
+  },
+  "order_within_session": {
+    "Description": "Story order within the session."
+  },
+  "audio_file": {
+    "Description": "Audio path relative to the stimuli directory."
+  },
+  "transcript_file": {
+    "Description": "Transcript path relative to the stimuli directory."
+  },
+  "tts_platform": {
+    "Description": "Text-to-speech production platform."
+  },
+  "voice_name": {
+    "Description": "Platform voice preset name."
+  },
+  "voice_gender": {
+    "Description": "Voice condition used in the experiment."
+  },
+  "duration_sec_from_analysis_envelope": {
+    "Description": "Duration of the corresponding 100-Hz analysis envelope.",
+    "Units": "s"
+  },
+  "chinese_character_count": {
+    "Description": "Count of U+4E00-U+9FFF characters in the released transcript."
+  },
+  "audio_sha256": {
+    "Description": "SHA-256 checksum of the released audio file."
+  },
+  "transcript_sha256": {
+    "Description": "SHA-256 checksum of the released transcript."
+  }
+}
