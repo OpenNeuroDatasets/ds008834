@@ -41,21 +41,21 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 5
-      - name: Jinghua Liang
+      - name: Linze Zheng
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 6
-      - name: Xihong Wu
+      - name: Jinghua Liang
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 7
-      - name: Linze Zheng
+      - name: Xihong Wu
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -88,11 +88,11 @@ data:
         nameType: Personal
       - name: Zifeng Zhang
         nameType: Personal
+      - name: Linze Zheng
+        nameType: Personal
       - name: Jinghua Liang
         nameType: Personal
       - name: Xihong Wu
-        nameType: Personal
-      - name: Linze Zheng
         nameType: Personal
       - name: Heping Cheng
         nameType: Personal
