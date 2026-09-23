@@ -1,0 +1,26 @@
+{
+    "Name": "PKUEEG",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Boda Xiao",
+        "X. Xu",
+        "Y. Yan",
+        "L. Zheng",
+        "S. Li",
+        "Z. Zhang",
+        "J. Liang",
+        "A. Zhang",
+        "Xihong Wu",
+        "Heping Cheng",
+        "Jing Chen"
+    ],
+    "EthicsApprovals": [
+        "Institutional Review Board of Peking University, IRB00001052-25045"
+    ],
+    "ReferencesAndLinks": [
+        "https://www.gstudios.com.cn/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008834.v1.0.1"
+}
