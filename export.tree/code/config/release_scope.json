@@ -1,7 +1,0 @@
-{
-  "schema_version": 1,
-  "behavioral_accuracy": "deferred",
-  "technical_validation": "deferred",
-  "historical_validation_reports": "excluded",
-  "description": "Behavioral accuracy data and technical-validation analyses/results are deferred to a future dataset update. Historical/internal validation reports are maintained outside the release. Anonymous participant demographics, experimental event metadata, preprocessing/feature-extraction code and structural/BIDS checking scripts remain included."
-}
