@@ -1,9 +1,0 @@
-PKUEEG 1-8 Hz derivative
-
-Each participant directory contains 50 story segments and three eyes-open rest
-segments in NPZ format. The eeg_data array is channels by samples, stored as
-float32 microvolts. ch_names stores channel labels. The sampling rate is 128 Hz.
-
-This derivative was generated uniformly for all 25 participants from the
-corrected 1-40-Hz/250-Hz derivative. A zero-phase eighth-order Butterworth
-low-pass filter at 8 Hz was applied before polyphase resampling by 64/125.
