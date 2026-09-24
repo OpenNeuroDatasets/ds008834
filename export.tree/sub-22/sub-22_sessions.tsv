@@ -1,4 +1,0 @@
-session_id	acquisition_day	story_first	story_last	n_story_runs	rest_duration_sec	sampling_frequency	acquisition_system	vendor_source_format	recorded_channels
-ses-day1	1	1	17	17	300	1000	NeuroScan SynAmps2	CNT	62 EEG + 2 EOG
-ses-day2	2	18	33	16	300	1000	NeuroScan SynAmps2	CNT	62 EEG + 2 EOG
-ses-day3	3	34	50	17	300	1000	NeuSen Wireless EEG/ERP	BDF	59 EEG + 5 auxiliary
