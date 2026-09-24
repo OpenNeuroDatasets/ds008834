@@ -1,0 +1,6 @@
+code/**
+derivatives/**
+stimuli/stimuli.tsv
+stimuli/stimuli.json
+stimuli/README
+stimuli/transcripts/**
