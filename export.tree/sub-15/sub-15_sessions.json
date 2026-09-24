@@ -1,0 +1,34 @@
+{
+  "session_id": {
+    "Description": "BIDS session identifier."
+  },
+  "acquisition_day": {
+    "Description": "Ordinal recording day."
+  },
+  "story_first": {
+    "Description": "First story identifier scheduled in the session."
+  },
+  "story_last": {
+    "Description": "Last story identifier scheduled in the session."
+  },
+  "n_story_runs": {
+    "Description": "Number of story recordings in the session."
+  },
+  "rest_duration_sec": {
+    "Description": "Planned eyes-open resting-state duration.",
+    "Units": "s"
+  },
+  "sampling_frequency": {
+    "Description": "Acquisition sampling frequency.",
+    "Units": "Hz"
+  },
+  "acquisition_system": {
+    "Description": "EEG acquisition system."
+  },
+  "vendor_source_format": {
+    "Description": "Original vendor file format."
+  },
+  "recorded_channels": {
+    "Description": "Recorded scalp and auxiliary channel counts."
+  }
+}
